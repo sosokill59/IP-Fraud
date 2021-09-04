@@ -1,8 +1,8 @@
 # IP-Fraud
 
-Check the reputation of an IP with ipqualityscore.com's API.
+Check the reputation of an IP using ipqualityscore.com's API.
 
-You have to create account on www.ipqualityscore.com/create-account, and then get your API key.
+You have to create an account on www.ipqualityscore.com/create-account, and then get your free API key.
 
 This script will generate 2 files: 1 JSON file wich contains the informations about the IP and 1 HTML file to display this informations in a table.
 
